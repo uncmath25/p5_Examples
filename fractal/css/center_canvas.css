@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+
+  /* Centers Sketch horizontally. */
+  justify-content: center;
+
+  /* Centers Sketch vertically. */
+  align-items: center;
+}
